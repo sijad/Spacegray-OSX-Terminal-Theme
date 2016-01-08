@@ -1,6 +1,6 @@
 ### Spacegray Theme For Mac Terminal
 
-Some customizations to [Tannadev's Spacegray Theme](https://github.com/tannadev/Spacegray-OSX-Terminal-Theme) to make it more comfortable for my self
+Some customizations to [Tannadev's Spacegray Theme](https://github.com/tannadev/Spacegray-OSX-Terminal-Theme) to make it more comfortable for myself
 
 #### Setup:
 
@@ -27,6 +27,6 @@ Now set the profile as "Default" and you should be good!
 ##### Extra Info:
 I am using a downloaded font called [Hack](http://sourcefoundry.org/hack/)
 
-I am also using [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) for [fish shell](http://fishshell.com/) instead of the default shells
+I am also using [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) for [fish shell](http://fishshell.com/) with [Imajes Theme](https://github.com/sijad/imajes-omf-theme) instead of the default shells
 
 
