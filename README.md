@@ -1,6 +1,6 @@
 ### Spacegray Theme For Mac Terminal
 
-Once Yosemite came out I found that the stuff I used in iTerm2 was now in the standard terminal so I switched back! But I missed my favorite theme from iTerm2 so I created it for Mac terminal!
+Some customizations to [Tannadev's Spacegray Theme](https://github.com/tannadev/Spacegray-OSX-Terminal-Theme) to make it more comfortable for my self
 
 #### Setup:
 
@@ -19,14 +19,14 @@ Click spacegray.terminal and press Open
 Now set the profile as "Default" and you should be good!
 
 ##### What it looks like:
-![Spacegray](https://github.com/tannadev/Spacegray-OSX-Terminal-Theme/blob/master/images/example.png)
+![Spacegray](https://github.com/sijad/Spacegray-OSX-Terminal-Theme/blob/master/images/example.png)
 
 ##### Settings:
-![Settings](https://github.com/tannadev/Spacegray-OSX-Terminal-Theme/blob/master/images/settings.png)
+![Settings](https://github.com/sijad/Spacegray-OSX-Terminal-Theme/blob/master/images/settings.png)
 
 ##### Extra Info:
-I am using a downloaded font called Droid Sans Mono
+I am using a downloaded font called [Hack](http://sourcefoundry.org/hack/)
 
-I am also using oh-my-zsh for zsh instead of the default shell
+I am also using [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) for [fish shell](http://fishshell.com/) instead of the default shells
 
 
